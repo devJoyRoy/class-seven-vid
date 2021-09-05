@@ -1,0 +1,57 @@
+.borderr{
+  height: 200px;
+  width: 250px;
+  background-color: rgb(23, 95, 39);
+  border-radius: 50px 0;
+}
+.border{
+  height: 250px;
+  width: 250px;
+  background-color: rgb(23, 95, 39);
+  border-radius: 0 60px ;
+}
+
+
+.potaka{
+  width: 250px; 
+  height: 100px;
+  background-color: darkgreen;
+  text-align: center;
+  padding: 30px;
+  box-shadow: 5px 5px 12px black;;
+
+}
+.lal{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(221, 36, 36);
+  border-radius: 100%;
+  display: inline-block;
+
+}
+.dim{
+  height: 130px;
+  width: 250px;
+  background-color: burlywood;
+  border: 5px rgb(231, 149, 56) solid;
+  border-radius: 50%;
+  text-align: center;
+  padding-top: 27px;
+  
+
+}
+.kosom{
+  height: 100px;
+  width: 100px;
+  background-color: rgb(221, 77, 10);
+  border-radius: 50%;
+  display: inline-block;
+
+}
+.text{
+  text-shadow: 1px 2px 6px red;
+  border: 5px black solid;
+  text-align: center;
+  font-size: 50px;
+  box-shadow: 0px 1px 14px red;
+}
